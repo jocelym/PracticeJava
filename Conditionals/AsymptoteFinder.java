@@ -37,7 +37,6 @@ public class AsymptoteFinder {
 
             System.out.println("Quintic");
 
-
         } else if (m - n == 6) {
 
             System.out.println("Sextic");
